@@ -1,0 +1,20 @@
+---
+title: "Sample Project"
+description: "One-line summary of what this project does and why it matters."
+date: 2026-01-01
+categories: [Python, Machine Learning]
+image: thumbnail.svg
+---
+
+## Overview
+
+Describe the project: the problem, your approach, and the outcome.
+
+## Links
+
+- [GitHub repository](https://github.com/Muhammad-Asim-Butt)
+- [Live demo](#)
+
+## Details
+
+Add more detail, screenshots, or code snippets here as needed.

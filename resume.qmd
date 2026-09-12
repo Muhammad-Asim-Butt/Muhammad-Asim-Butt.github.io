@@ -1,0 +1,38 @@
+---
+title: "Resume"
+---
+
+<!-- Tip: this page renders to HTML. If you also want a downloadable PDF version
+     of the same content, duplicate this file as resume-pdf.qmd, add
+     `format: pdf` to its front matter, render it, and link the PDF here. -->
+
+## Experience
+
+### Job Title — Company Name
+*Month Year – Present · Location*
+
+- Achievement or responsibility, phrased with impact and numbers where possible.
+- Another achievement.
+
+### Previous Job Title — Company Name
+*Month Year – Month Year · Location*
+
+- Achievement or responsibility.
+- Another achievement.
+
+## Education
+
+### Degree — Institution
+*Month Year – Month Year*
+
+- Relevant coursework, honors, or thesis topic.
+
+## Skills
+
+**Languages:** Python, ...
+**Tools & Frameworks:** ...
+**Other:** ...
+
+## Certifications
+
+- Certification name — Issuer, Year

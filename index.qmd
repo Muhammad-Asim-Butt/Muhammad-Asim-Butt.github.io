@@ -1,0 +1,35 @@
+---
+title: "Muhammad Asim Butt"
+subtitle: "Your title / tagline goes here, e.g. Machine Learning Engineer"
+image: profile.svg
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:masimbut@gmail.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/Muhammad-Asim-Butt
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/
+---
+
+## About Me
+
+Write a short introduction here — who you are, what you work on, and what you're
+looking for (e.g. roles, collaborations, opportunities). Two to four sentences is
+usually enough for the homepage; the [Resume](resume.qmd) page can hold the detail.
+
+## Interests
+
+- Interest or focus area one
+- Interest or focus area two
+- Interest or focus area three
+
+## Education
+
+**Degree, Institution** — Year
+: Brief note if relevant.

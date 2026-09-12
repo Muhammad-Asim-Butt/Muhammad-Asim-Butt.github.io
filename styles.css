@@ -1,0 +1,9 @@
+/* Custom overrides on top of the Quarto theme */
+
+.navbar-title {
+  font-weight: 600;
+}
+
+.about-links a {
+  margin-right: 0.5rem;
+}
