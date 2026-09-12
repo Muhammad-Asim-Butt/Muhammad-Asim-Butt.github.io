@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="400" height="240">
+  <rect width="400" height="240" fill="#2c3e50"/>
+  <circle cx="120" cy="120" r="55" fill="none" stroke="#ecf0f1" stroke-width="4"/>
+  <circle cx="120" cy="120" r="30" fill="#ecf0f1" opacity="0.5"/>
+  <circle cx="200" cy="90" r="14" fill="#18bc9c"/>
+  <circle cx="235" cy="140" r="9" fill="#18bc9c"/>
+  <text x="200" y="205" font-family="sans-serif" font-size="20" fill="white" text-anchor="middle">Prostate Cancer Pathology</text>
+</svg>

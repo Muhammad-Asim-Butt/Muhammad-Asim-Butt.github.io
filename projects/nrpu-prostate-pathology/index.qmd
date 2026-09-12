@@ -1,0 +1,20 @@
+---
+title: "AI-Assisted Prostate Cancer Pathology"
+description: "HEC-funded project building a national prostate cancer histopathology resource and an AI diagnostic tool."
+date: 2026-02-01
+categories: [Computational Pathology, Machine Learning, Ongoing]
+image: thumbnail.svg
+---
+
+## Overview
+
+Principal Investigator on a competitively awarded **HEC National Research Programme
+for Universities (NRPU) project (2026–2028)**, conducted by UMT in partnership with
+King Edward Medical University and Mayo Hospital, Lahore. The project is building an
+expert-annotated prostate cancer histopathology dataset and an AI-based diagnostic
+tool for Gleason grading and perineural invasion detection.
+
+This project has just started — more details, methods, and results will be added
+here as the work progresses.
+
+See the [Research Statement](../../research.qmd) page for broader context.
