@@ -6,33 +6,96 @@ title: "Resume"
      of the same content, duplicate this file as resume-pdf.qmd, add
      `format: pdf` to its front matter, render it, and link the PDF here. -->
 
+**Email:** [asim.butt@umt.edu.pk](mailto:asim.butt@umt.edu.pk) · **ORCID:** [0000-0002-4167-2685](https://orcid.org/0000-0002-4167-2685)
+
 ## Experience
 
-### Job Title — Company Name
-*Month Year – Present · Location*
+### Assistant Professor — University of Management and Technology (UMT), Lahore
+*Sep 2010 – Present*
 
-- Achievement or responsibility, phrased with impact and numbers where possible.
-- Another achievement.
+**Teaching:** Machine Learning for Signal Processing, Computer Architecture, Parallel and Distributed Computing, Computer Organization and Assembly Language, Probability and Statistics for Engineers, Digital Logic Design, Modern Microprocessor Systems, Digital Signal Processing, Signals and Systems, Electronic Devices and Circuits, VLSI Design, Control Systems, Communication Systems, and Circuit Analysis.
 
-### Previous Job Title — Company Name
-*Month Year – Month Year · Location*
+**Current administrative responsibilities:**
 
-- Achievement or responsibility.
-- Another achievement.
+- Spearheading the development of an Advanced AR/VR Laboratory
+- Convener, FYP Committee
+- Batch Advisor
+- Project Advisor (MS/BS)
+- Member: Faculty Development / Subject Improvement / New Technology Trend Committee
+- Member: OBE-Based Course Folder Review Committee
+- Member: Continuous Quality Improvement (CQI) Committee
+- Faculty support team for the IEEE UMT Student Chapter
+
+**Previous administrative responsibilities:**
+
+- Director, Laboratories
+- Course Outline Committee
+- EE Labs Management Team
+- EE Senior Year Project Committee
+- Internship Committee
+
+### Faculty — University of South Asia
+*Sep 2009 – Aug 2010*
+
+Taught Stochastic Systems, Digital Logic Design, Differential Calculus, and Integral Calculus.
+
+### Teaching Assistant — Lahore University of Management Sciences (LUMS)
+*Sep 2007 – Sep 2009*
+
+SPICE modeling for Electronic Systems, Digital System Design, and Digital Image Processing.
+
+### Team Lead — ICCSoft
+*Aug 2003 – Aug 2005*
+
+Led development of an Enterprise Management System comprising Security, Accounts, Human Resources, and Stores modules, built in Java, JavaScript, and Oracle. Successfully deployed in Saudi Arabia (KSA).
+
+### Divisional Engineer — ICC (Pvt) Ltd.
+*1994 – Jul 2003*
+
+- Tender preparation, design, project monitoring, and execution of EHV transmission lines and substations
+- Design of tower foundations; developed C++ software for quantity survey and tower foundation design
+- Quality assurance, material testing, and correspondence & monitoring of site offices
 
 ## Education
 
-### Degree — Institution
-*Month Year – Month Year*
+### PhD, Electrical Engineering — University of Management and Technology (UMT), Lahore
+*2024*
 
-- Relevant coursework, honors, or thesis topic.
+Thesis: Image Analysis for Cancer Diagnosis (histopathology / prostate cancer grading).
+
+### MSc, Computer Engineering — Lahore University of Management Sciences (LUMS)
+*2008*
+
+Thesis area: VLSI Implementation of DSP Algorithms.
+Favorite courses: Design of Algorithms, Automata, Data Structures, Computer Networks, Machine Learning, Neural Networks.
+
+### BSc, Electrical Engineering — University of Engineering and Technology (UET), Peshawar
+*1989 – 1993*
+
+First Division with Honours.
+
+### FSc, Pre-Engineering — Islamia College, Peshawar
+*1986 – 1988*
+
+75.5%.
+
+## Publications
+
+1. M. A. Butt and S. Masud. "FPGA based bandwidth adjustable all digital direct frequency synthesizer," in *ISCIT*, Korea, 2009.
+2. S. F. Ali, A. Abid, M. A. Butt, A. Raza, A. Khan, A. Asghar, and A. Kamal. "Development and implementation of Image Processing based Algorithms for Vehicle Velocity Estimation and their comparison," in *First International Conference on Innovative Computing (ICIC)*, Lahore, 2016.
+3. A. Jameel, W. Iqbal, and M. A. Butt. "Architectural Design and Performance Evaluation of Three Reconfigurable FFT Cores for Application in Software Defined Radio System," *International Conference in Electrical Engineering (ICEE)*, 2017.
+4. H. Z. Hussain, A. Haider, M. S. Fakhar, J. Ahmad, M. A. Butt, and K. S. Khokhar. "Short-term scheduling of non-cascaded hydro-thermal system with transmission losses using accelerated particle swarm optimization algorithm." *Pak. J. Eng. Appl. Sci.* 22 (2018): 20–29.
+5. W. Iqbal, M. Shoaib, J. Ahmad, M. A. Butt, A. Khalid, and M. Adnan. "Parametric and Non-Parametric Spectral Signal Processing Techniques for Estimation of Periodicity in Sunspot Numbers." *Proceedings of the Pakistan Academy of Sciences* 56, no. 1 (2019): 9–20.
+6. Q. Malik, A. Zia, R. Ahmad, M. A. Butt, and Z. A. Javed. "Design and Operation of Smart Energy Meter for Effective Energy Utilization in Smart Cities," *2019 IEEE Conference on Sustainable Utilization and Development in Engineering and Technologies (CSUDET)*.
+7. M. A. Butt, M. F. Kaleem, M. Bilal, and M. S. Hanif. "Using multi-label ensemble CNN classifiers to mitigate labelling inconsistencies in patch-level Gleason grading." *PLOS ONE* 19, no. 7 (2024): e0304847. [doi.org/10.1371/journal.pone.0304847](https://doi.org/10.1371/journal.pone.0304847)
+
+## Affiliations
+
+- Pakistan Engineering Council (ELECT/11459)
+- Associate Member, IEEE Pakistan (AM-1221)
+- Member, Institution of Engineers Pakistan — IEP (M-11940)
 
 ## Skills
 
-**Languages:** Python, ...
-**Tools & Frameworks:** ...
-**Other:** ...
-
-## Certifications
-
-- Certification name — Issuer, Year
+**Languages & Tools:** Python, PyTorch, C++, Java, JavaScript, Oracle
+**Domains:** Machine learning for signal processing, deep learning for medical imaging, VLSI design, digital signal processing, digital image processing
