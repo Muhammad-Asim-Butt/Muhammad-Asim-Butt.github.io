@@ -21,6 +21,5 @@ Renders and serves the site locally with live reload.
 ## Deployment
 
 Pushing to `main` triggers `.github/workflows/publish.yml`, which renders the
-site with Quarto and publishes it to the `gh-pages` branch. In the repo's
-**Settings → Pages**, set the source to the `gh-pages` branch (created
-automatically after the first successful workflow run).
+site with Quarto and deploys it via GitHub Pages' native Actions integration.
+In the repo's **Settings → Pages**, the source is set to **GitHub Actions**.
