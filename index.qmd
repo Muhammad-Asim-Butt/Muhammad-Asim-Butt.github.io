@@ -1,6 +1,6 @@
 ---
 title: "Muhammad Asim Butt"
-subtitle: "Your title / tagline goes here, e.g. Machine Learning Engineer"
+subtitle: "Assistant Professor, Department of Computer Science, School of Systems and Technology, University of Management and Technology (UMT), Lahore, Pakistan"
 image: profile.svg
 about:
   template: trestles
@@ -8,7 +8,7 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: mailto:masimbut@gmail.com
+      href: mailto:asim.butt@umt.edu.pk
     - icon: github
       text: GitHub
       href: https://github.com/Muhammad-Asim-Butt
@@ -19,17 +19,28 @@ about:
 
 ## About Me
 
-Write a short introduction here — who you are, what you work on, and what you're
-looking for (e.g. roles, collaborations, opportunities). Two to four sentences is
-usually enough for the homepage; the [Resume](resume.qmd) page can hold the detail.
+My research sits at the intersection of signal processing, machine learning, and
+clinical medicine. I work on diagnostic systems — particularly in computational
+pathology for prostate cancer — that aim to be not only accurate, but interpretable,
+verifiable, and deployable in the hospitals and laboratories that actually need them.
+I am currently Principal Investigator of an HEC National Research Programme for
+Universities (NRPU) project (2026–2028), building Pakistan's first expert-annotated
+prostate cancer histopathology dataset and an AI-based diagnostic tool for Gleason
+grading and perineural invasion detection, in partnership with King Edward Medical
+University and Mayo Hospital, Lahore. See my full [Research Statement](research.qmd)
+for more detail.
 
 ## Interests
 
-- Interest or focus area one
-- Interest or focus area two
-- Interest or focus area three
+- Computational pathology and whole-slide image analysis
+- Deep learning for medical imaging, explainable AI
+- Federated and privacy-preserving learning
+- Machine learning for signal processing; VLSI implementation of DSP algorithms
 
 ## Education
 
-**Degree, Institution** — Year
-: Brief note if relevant.
+**PhD, Electrical Engineering (Image Analysis / Cancer Diagnosis), University of Management and Technology (UMT), Lahore** — 2024
+
+**MSc, Computer Engineering (VLSI Implementation of DSP Algorithms), Lahore University of Management Sciences (LUMS)** — 2008
+
+**BSc, Electrical Engineering, University of Engineering and Technology (UET), Peshawar** — 1993

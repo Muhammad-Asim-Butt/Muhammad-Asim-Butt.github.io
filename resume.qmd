@@ -81,13 +81,7 @@ First Division with Honours.
 
 ## Publications
 
-1. M. A. Butt and S. Masud. "FPGA based bandwidth adjustable all digital direct frequency synthesizer," in *ISCIT*, Korea, 2009.
-2. S. F. Ali, A. Abid, M. A. Butt, A. Raza, A. Khan, A. Asghar, and A. Kamal. "Development and implementation of Image Processing based Algorithms for Vehicle Velocity Estimation and their comparison," in *First International Conference on Innovative Computing (ICIC)*, Lahore, 2016.
-3. A. Jameel, W. Iqbal, and M. A. Butt. "Architectural Design and Performance Evaluation of Three Reconfigurable FFT Cores for Application in Software Defined Radio System," *International Conference in Electrical Engineering (ICEE)*, 2017.
-4. H. Z. Hussain, A. Haider, M. S. Fakhar, J. Ahmad, M. A. Butt, and K. S. Khokhar. "Short-term scheduling of non-cascaded hydro-thermal system with transmission losses using accelerated particle swarm optimization algorithm." *Pak. J. Eng. Appl. Sci.* 22 (2018): 20–29.
-5. W. Iqbal, M. Shoaib, J. Ahmad, M. A. Butt, A. Khalid, and M. Adnan. "Parametric and Non-Parametric Spectral Signal Processing Techniques for Estimation of Periodicity in Sunspot Numbers." *Proceedings of the Pakistan Academy of Sciences* 56, no. 1 (2019): 9–20.
-6. Q. Malik, A. Zia, R. Ahmad, M. A. Butt, and Z. A. Javed. "Design and Operation of Smart Energy Meter for Effective Energy Utilization in Smart Cities," *2019 IEEE Conference on Sustainable Utilization and Development in Engineering and Technologies (CSUDET)*.
-7. M. A. Butt, M. F. Kaleem, M. Bilal, and M. S. Hanif. "Using multi-label ensemble CNN classifiers to mitigate labelling inconsistencies in patch-level Gleason grading." *PLOS ONE* 19, no. 7 (2024): e0304847. [doi.org/10.1371/journal.pone.0304847](https://doi.org/10.1371/journal.pone.0304847)
+See the [Publications](publications.qmd) page for the full list, sourced from [ORCID](https://orcid.org/0000-0002-4167-2685).
 
 ## Affiliations
 
